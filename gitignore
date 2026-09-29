@@ -1,0 +1,10 @@
+# Fichiers générés
+*.svg
+*.png
+*.jpg
+
+# Exception : l'image de routeur est une ressource
+!routeur.png
+
+# Ne jamais versionner le token
+token.gh
