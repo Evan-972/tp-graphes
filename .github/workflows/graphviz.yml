@@ -7,9 +7,8 @@ jobs:
       - name: Installation de graphviz
         run: |
           sudo apt-get install -y graphviz
-          sudo dot -c
       - name: Check out repository code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
       - name: Lancement graphviz
         run: ./run1.sh g1
       - name: upload du resultat
