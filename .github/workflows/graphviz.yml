@@ -12,9 +12,9 @@ jobs:
       - run: neato -V
       - run: cat run1.sh
       - name: Lancement graphviz
-        run: ./run1.sh g1
+        run: ./run2.sh g1
       - name: upload du resultat
         uses: actions/upload-artifact@v4
         with:
           name: graphe1
-          path: ./g1.svg
+          path: ./*.svg
