@@ -9,6 +9,8 @@ jobs:
           sudo apt-get install -y graphviz
       - name: Check out repository code
         uses: actions/checkout@v6
+      - run: neato -V
+      - run: cat run1.sh
       - name: Lancement graphviz
         run: ./run1.sh g1
       - name: upload du resultat
