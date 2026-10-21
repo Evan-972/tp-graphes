@@ -1,0 +1,85 @@
+{
+  "total_count": 4,
+  "artifacts": [
+    {
+      "id": 12344411479,
+      "node_id": "MDg6QXJ0aWZhY3QxMjM0NDQxMTQ3OQ==",
+      "name": "graphe1",
+      "size_in_bytes": 5955,
+      "url": "https://api.github.com/repos/Evan-972/tp-graphes/actions/artifacts/12344411479",
+      "archive_download_url": "https://api.github.com/repos/Evan-972/tp-graphes/actions/artifacts/12344411479/zip",
+      "expired": false,
+      "digest": "sha256:8ac4f25af39ddd2aa14fc50ec3fb7639308e61086c5dbf3f6becff95f4528fe3",
+      "created_at": "2026-10-21T12:07:59Z",
+      "updated_at": "2026-10-21T12:07:59Z",
+      "expires_at": "2027-01-19T12:07:41Z",
+      "workflow_run": {
+        "id": 39597140483,
+        "repository_id": 1394761487,
+        "head_repository_id": 1394761487,
+        "head_branch": "main",
+        "head_sha": "9e8d856283eb1417ed9246c95670fc1c567108f7"
+      }
+    },
+    {
+      "id": 12343308367,
+      "node_id": "MDg6QXJ0aWZhY3QxMjM0MzMwODM2Nw==",
+      "name": "graphe1",
+      "size_in_bytes": 1038,
+      "url": "https://api.github.com/repos/Evan-972/tp-graphes/actions/artifacts/12343308367",
+      "archive_download_url": "https://api.github.com/repos/Evan-972/tp-graphes/actions/artifacts/12343308367/zip",
+      "expired": false,
+      "digest": "sha256:5759ae2dc78312deecd83fbd52622735167f71df6345b40c2078f10015db3266",
+      "created_at": "2026-10-21T12:01:22Z",
+      "updated_at": "2026-10-21T12:01:22Z",
+      "expires_at": "2027-01-19T12:01:07Z",
+      "workflow_run": {
+        "id": 39596288705,
+        "repository_id": 1394761487,
+        "head_repository_id": 1394761487,
+        "head_branch": "main",
+        "head_sha": "67726b7519faae308b8ab305f4fb7f4cd6d921f6"
+      }
+    },
+    {
+      "id": 12343007860,
+      "node_id": "MDg6QXJ0aWZhY3QxMjM0MzAwNzg2MA==",
+      "name": "graphe1",
+      "size_in_bytes": 1038,
+      "url": "https://api.github.com/repos/Evan-972/tp-graphes/actions/artifacts/12343007860",
+      "archive_download_url": "https://api.github.com/repos/Evan-972/tp-graphes/actions/artifacts/12343007860/zip",
+      "expired": false,
+      "digest": "sha256:8b5e7359200c26cb93aa156af3c905eb91d0aa482c9abc9fdd97fc830499dd00",
+      "created_at": "2026-10-21T11:55:21Z",
+      "updated_at": "2026-10-21T11:55:21Z",
+      "expires_at": "2027-01-19T11:55:04Z",
+      "workflow_run": {
+        "id": 39595522699,
+        "repository_id": 1394761487,
+        "head_repository_id": 1394761487,
+        "head_branch": "main",
+        "head_sha": "b89cb0d0766bda323c16453806f6d78da4282711"
+      }
+    },
+    {
+      "id": 11023133161,
+      "node_id": "MDg6QXJ0aWZhY3QxMTAyMzEzMzE2MQ==",
+      "name": "graphe1",
+      "size_in_bytes": 1071,
+      "url": "https://api.github.com/repos/Evan-972/tp-graphes/actions/artifacts/11023133161",
+      "archive_download_url": "https://api.github.com/repos/Evan-972/tp-graphes/actions/artifacts/11023133161/zip",
+      "expired": false,
+      "digest": "sha256:abf41d2eb69b28268f12ed9f466f32077ec2c8a5e69b89442d6f591273747b6a",
+      "created_at": "2026-09-29T09:24:35Z",
+      "updated_at": "2026-09-29T09:24:35Z",
+      "expires_at": "2026-12-28T09:24:22Z",
+      "workflow_run": {
+        "id": 36548954320,
+        "repository_id": 1394761487,
+        "head_repository_id": 1394761487,
+        "head_branch": "main",
+        "head_sha": "c9e3caeedfd4c2170758e5e7c791652b12942b0f"
+      }
+    }
+  ]
+}
