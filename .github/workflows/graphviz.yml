@@ -14,4 +14,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: graphe1
-          path: g1.svg
+          path: ~/tp-graphes/g1.svg
