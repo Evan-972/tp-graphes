@@ -4,9 +4,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - run: apt-get update
       - name: Installation de graphviz
-        run: |
-          sudo apt-get install -y graphviz
+        run: sudo apt-get install -y graphviz
       - name: Check out repository code
         uses: actions/checkout@v6
       - run: neato -V
